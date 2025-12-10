@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daRk8238
+- 👋 Hi, I’m @Benjamin
 - 👀 I’m interested in next generation sequencing
 - 🌱 I’m currently learning about next generation sequencing
 - 📫 How to reach me adegboyegabb@gmail.com
