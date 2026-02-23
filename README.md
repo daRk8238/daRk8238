@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Benjamin
-- 👀 I’m interested in next generation sequencing
+- 👀 I’m interested in Drug Discovery and Genomics
 - 🌱 I’m currently learning about next generation sequencing
 - 📫 How to reach me adegboyegabb@gmail.com
 
